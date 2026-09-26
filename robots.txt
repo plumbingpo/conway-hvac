@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://conwayhvacco.com/sitemap.xml
